@@ -13,7 +13,7 @@ table {
     background-color:#CCFFFF;
 	border: 40px;
 	padding: 40px;
-	align:center;
+	align: center;
 	}
 
 form {
